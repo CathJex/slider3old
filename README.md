@@ -1,2 +1,2 @@
 # slider1
-slider for GEUS Bulletin with auto play
+slider for GEUS Bulletin with 3s auto play
